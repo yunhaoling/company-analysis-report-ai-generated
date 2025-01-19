@@ -1,3 +1,38 @@
+## 2024-Q3
+### 1. Revenue-Generating Products, Services, and Platforms
+
+| Product/Service/Platform       | Customer and Value Proposition                                                                                                                                       | Critical Growth Data                                                                                                                                          | Margin |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Snowflake Core Business        | Enterprise customers (data warehousing, data engineering). Simplifies data management and analytics across industries like technology, finance, healthcare.          | Product revenue of $900M in Q3 2025 (+29% YoY). Net revenue retention rate of 127%. RPO growth accelerated to $5.7B (+55% YoY).                               | 76%    |
+| Snowpark                       | Data engineers building scalable pipelines. Offers cost-effective and efficient data engineering solutions.                                                          | On track to represent 3% of product revenue. Significant YoY growth.                                                                                          | N/A    |
+| Cortex AI                      | Enterprises leveraging AI/ML for automation and insights (e.g., Siemens, Bayer, Zoom). Enables efficient, trusted AI-driven data operations.                        | 1,000+ production deployments. Over 3,200 accounts using AI/ML features. Strong adoption driving incremental consumption.                                      | N/A    |
+| Dynamic Tables and Data Engineering Features | Enterprises handling real-time data transformations and integrations.                                                                                  | $200M+ run rate in Q3 2025. Momentum in new workloads and adoption of features like dynamic tables and connectors.                                             | N/A    |
+| Apache Iceberg                 | Businesses seeking open data formats for interoperability and scalability.                                                                                          | Partnerships with AWS, Azure, and GCP. Minimal headwinds from data movement offset by new workloads.                                                          | N/A    |
+| Unistore and Snowflake Open Catalog | Enterprises needing unified and scalable data integration solutions.                                                                                      | Early adoption phase. Broad customer interest in integrated and open-source solutions.                                                                         | N/A    |
+
+---
+
+### 2. Products or Services Under Development
+
+| Product/Service/Platform       | Customer and Value Proposition                                                                 | Timeline            | Estimate on Revenue Impact |
+|--------------------------------|-----------------------------------------------------------------------------------------------|---------------------|----------------------------|
+| Datavolo                      | Enterprises managing complex, unstructured data pipelines. Simplifies data engineering workflows. | Acquisition announced. Integration ongoing. | Expected to enhance data engineering and AI capabilities significantly. |
+| Snowflake Intelligence         | Enterprises developing autonomous data agents.                                                | Announced, adoption underway. | Potential for incremental AI-driven revenue.          |
+| Snowflake Notebooks            | Data scientists conducting in-depth analytics and modeling.                                   | Early availability. | Positioned for meaningful revenue contributions.       |
+
+---
+
+### 3. Challenges and Risks
+
+| Challenges/Risks                                                                                         |
+|----------------------------------------------------------------------------------------------------------|
+| Increasing competition from complex, resource-intensive platforms.                                       |
+| Adapting to rapid shifts in customer needs for real-time and AI-driven data operations.                  |
+| Managing transitions to open data formats like Apache Iceberg while maintaining storage revenue.         |
+| Ensuring federal and international growth amid varying regional demands and certifications.              |
+| Addressing macroeconomic uncertainties and their impact on customer budgets.                             |
+| Maintaining operational efficiency and scaling innovation without sacrificing profitability.             |
+
 ## 2024-Q2
 ### 1. Revenue-Generating Products, Services, and Platforms
 
